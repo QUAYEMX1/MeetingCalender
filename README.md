@@ -30,7 +30,7 @@ The Calendar Assistant Program is a RESTful API built using Java Spring Boot tha
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/calendar-assistant.git](https://github.com/QUAYEMX1/MeetingCalender.git)
+https://github.com/QUAYEMX1/MeetingCalender.git
    ```
 
 ## Troubleshooting
